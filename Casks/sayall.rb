@@ -1,8 +1,8 @@
 cask "sayall" do
-  version "0.1.8"
-  sha256 "b4a04bfd2ab390d0d1f37981fe469e51452240c7b45c55457563c9f40ac40574"
+  version "0.2.2"
+  sha256 "f0d45c9c11276ea76af436bb0c2d2ff8c42f070e95ba3b180bdf79116ca54641"
 
-  url "https://github.com/saiemsaeed/sayall/releases/download/v#{version}/sayall-#{version}-macos-arm64.zip"
+  url "https://github.com/saiemsaeed/sayall/releases/download/v#{version}/sayall-#{version}-macos-arm64.dmg"
   name "SayAll"
   desc "Voice dictation for Apple Silicon Macs"
   homepage "https://github.com/saiemsaeed/sayall"
