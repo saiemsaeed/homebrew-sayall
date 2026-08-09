@@ -1,6 +1,6 @@
 cask "sayall" do
-  version "0.2.10"
-  sha256 "166ebba8b303a157f381d2ef3b28b18b1a1f7c958eed097487929f1096d516b3"
+  version "0.2.11"
+  sha256 "959b8a66d591d33ea709db97aa4d793b57ac1ec5321517e2c72f50f5c7bd35a1"
 
   url "https://github.com/saiemsaeed/sayall/releases/download/v#{version}/sayall-#{version}-macos-arm64.dmg"
   name "SayAll"
